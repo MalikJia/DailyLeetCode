@@ -1,5 +1,5 @@
 approach 1: recursive
-![https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/Figures/235/235_LCA_Binary_1.png]
+![](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/Figures/235/235_LCA_Binary_1.png)
 
 根据LCA的定义. 比如, 对于3和9来说LCA是6
 
@@ -77,4 +77,4 @@ Time Complexity : O(N), where N is the number of nodes in the BST. In the worst 
 Space Complexity : O(1).
   
   
-[URl]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+[URl](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
